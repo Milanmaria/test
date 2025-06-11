@@ -14,6 +14,3 @@ function isAnagram(str1, str2) {
 module.exports = isAnagram;
 
 
-console.log(isAnagram("spar", "rasp"));    // true
-console.log(isAnagram("hello", "world"));  // false
-console.log(isAnagram("listen", "silent"));// true
